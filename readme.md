@@ -1,6 +1,6 @@
 # Udemy EmbeddedC Projects
 
-All code is written for the Nucleo-446RE Development Board
+All code is written for the <a href="https://os.mbed.com/platforms/ST-Nucleo-F446RE/"> NUCLEO-F446RE</a> Development Board
 
 Courses:
 - Microcontroller Embedded C Programming: Absolute Beginners **(done)**
