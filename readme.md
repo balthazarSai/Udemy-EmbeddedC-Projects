@@ -1,5 +1,7 @@
 # Udemy EmbeddedC Projects
 
+All code is written for the Nucleo-446RE Development Board
+
 Courses:
 - Microcontroller Embedded C Programming: Absolute Beginners **(done)**
 - Embedded Systems Programming on ARM Cortex-M3/M4 Processor **(done)**
