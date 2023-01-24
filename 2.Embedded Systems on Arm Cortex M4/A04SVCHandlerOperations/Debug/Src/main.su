@@ -1,7 +1,0 @@
-../Src/main.c:31:5:main	16	static
-../Src/main.c:43:27:SVC_Handler	0	static,ignoring_inline_asm
-../Src/main.c:48:6:SVC_Handler_c	40	static
-../Src/main.c:82:9:add_numbers	24	static,ignoring_inline_asm
-../Src/main.c:88:9:sub_numbers	24	static,ignoring_inline_asm
-../Src/main.c:94:9:mul_numbers	24	static,ignoring_inline_asm
-../Src/main.c:100:9:div_numbers	24	static,ignoring_inline_asm
